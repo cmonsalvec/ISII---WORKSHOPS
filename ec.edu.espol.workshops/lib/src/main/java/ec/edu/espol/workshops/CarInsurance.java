@@ -2,7 +2,7 @@ package ec.edu.espol.workshops;
 
 public class CarInsurance {
 	private char Gen;
-	private char Marry;
+	private char Marry; /* Estado civil */
 	private int Age;
 	private int base = 700;
 	private int premium;
